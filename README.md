@@ -6,8 +6,7 @@
 # Oiiii!! Eu sou a Giseli ISilva 😁
 Estudante de Análise e Desenvolvimento de Sistemas  
 com foco estratégico em Back-end e Dados.  
-Busco oportunidades para aplicar minha expertise em Python  
-e SQL Server, construindo soluções robustas  
+Busco oportunidades para aplicar minha expertise em Python e SQL Server, construindo soluções robustas  
 e impulsionando decisões através da análise inteligente de dados. 
 
 
