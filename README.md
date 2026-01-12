@@ -4,14 +4,14 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="420" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 # Oiiii!! Eu sou a Giseli ISilva 😁
-Estudante de Análise e Desenvolvimento de Sistemas  
-com foco estratégico em Back-end e Dados.  
-Busco oportunidades para aplicar minha expertise em Python e SQL Server, construindo soluções robustas e impulsionando decisões através da análise inteligente de dados. 
+Profissional da área administrativa com interesse em tecnologia e dados.  
+Utilizo ferramentas como Excel, Python e SQL Server como apoio à organização, controle e análise de informações, contribuindo para eficiência operacional e melhoria de processos.
 
+- 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas  
+- 📊 Experiência em rotinas administrativas, backoffice e organização de dados  
+- 📚 Apaixonada por livros  
+- 🖥️ Atualmente estudando e praticando:
 
-- 👩🏻‍💻 ***Estudante*** no curso de ***Análise e Desenvolvimento de Sistemas***
-- 📚 Apaixonada por ***livros***
-- 🖥️ Atualmente mais focada em:
 <br>
 
 <div display="inline">
