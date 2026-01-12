@@ -26,6 +26,4 @@ Utilizo ferramentas como Excel, Python e SQL Server como apoio à organização,
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/giseli-irsilva/)
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiseliirSilva&show_icons=true&theme=dracula" alt="Anurag's GitHub stats" height="150">
-</div>
+
