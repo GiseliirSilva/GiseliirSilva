@@ -2,8 +2,7 @@
   <img alt="Data Analyst in modern office with geometric frame" height="420" src="https://github.com/user-attachments/assets/331cbe06-55e9-4994-a540-ebf4c770bcc1" />
 </p>
 
-
-# 👩‍💼 Sobre mim
+# <img src="https://github.com/user-attachments/assets/321224de-4191-4306-aade-a24e7adc897c" alt="Emoji personalizado" width="40" height="40" style="vertical-align:middle;"/> Sobre mim
 Sou profissional com experiência em rotinas administrativas, gestão documental e suporte operacional, atualmente em formação em Análise e Desenvolvimento de Sistemas. Estou construindo um portfólio que une minha vivência administrativa com habilidades em análise de dados e automação de processos.
 
 ## 📊 O que você vai encontrar aqui
